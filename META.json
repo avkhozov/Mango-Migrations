@@ -47,6 +47,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/avkhozov/Mango-Migrations/issues"
+      },
+      "homepage" : "https://github.com/avkhozov/Mango-Migrations",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/avkhozov/Mango-Migrations.git",
+         "web" : "https://github.com/avkhozov/Mango-Migrations"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:AVKHOZOV"
 }
